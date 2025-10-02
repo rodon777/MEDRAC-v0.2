@@ -23,6 +23,8 @@ library(plotrix)   			# gráficos base
 library(scatterplot3d)   	# gráficos 3D interactivos
 library(tcltk)     			# paneles interactivos básicos
 library(stats)     			# funciones estadísticas básicas (ya viene con R)
+library(pracma)
+library(digest)
 
 #######################################################################
 # Rutas por defecto (puedes modificarlas)
