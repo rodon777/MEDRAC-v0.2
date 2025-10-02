@@ -6,8 +6,6 @@ libs <- c(
   "tcltk",          # paneles interactivos básicos
   "stats",          # funciones estadísticas básicas (ya viene con R)
   "pracma",          # integración / reemplazo de auc()
-  "gWidgets2", 
-  "gWidgets2tcltk",
   "digest"        	# para funciones de hash si se usan en la GUI
 )
 
